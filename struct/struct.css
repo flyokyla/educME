@@ -1,0 +1,19 @@
+blockquote {
+    padding-left: 14px;
+    border-left: 2px solid #6a2cce;
+    font-family: "Iosevka", serif;
+    color: #6a2cce;
+}
+  
+cite {
+  color: #222222;
+}
+
+fieldset{
+  border-radius: 10%;
+  padding:10px;
+  margin:20px;
+  border-color:rgb(205, 51, 190);
+  width:60%;
+}
+

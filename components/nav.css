@@ -2,6 +2,7 @@
     background-color: #2d2d44;
     font-family: iosevka;
     line-height: 1.5;
+    height:65px;
 }
 
 .navig-site-in{
@@ -12,6 +13,7 @@
     margin: 0 auto;
     align-items: center;
     justify-content: space-between;
+    height: 65px;
 }
 
 .navig-site .navig-list{
@@ -21,10 +23,9 @@
 }
 
 .navig-site .logo-link{
-    margin-top: 5px;
     text-align:center;
     margin-left:144px;
-    
+    height:50px;
 }
 
 .navig-site .logo{

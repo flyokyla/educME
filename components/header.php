@@ -7,5 +7,5 @@
                         <li> <a href="CSSstruct/csstruct.html"> СТРУКТУРА CSS </a> </li>
                         <li> <a href="lessPHP/structPHP.html"> СТРУКТУРА PHP </a> </li>
                         <li> <a href="phishki.php"> ФИШКИ И ГОРЯЧИЕ КЛАВИШИ </a> </li>
-                </ul>
+                </ul> 
         </nav>

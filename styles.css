@@ -8,9 +8,9 @@ body {
 
 nav, header {
     background-color: #d2b8e9;
-    border-radius: 20px;
+    border-radius: 30px;
     color: rgb(252, 224, 233);
-    margin: 50px 300px ;
+    margin: 1% 30% ;
     border: solid #5e3b4f 10px;
     
 }
@@ -29,9 +29,11 @@ h1 {
 
 img{
     border-radius: 100%;
-    margin: 10px 35%;
-    
-    
+    /* margin: 10px 35%; */
+}
+
+.main-logo{
+    margin: 1% 45%;
 }
 
 nav a {
@@ -39,8 +41,9 @@ nav a {
 }
 
 nav ul {
-    margin: 40px 10px ;
+    margin: 40px 20px ;
     color: #5e3b4f;
+    
 }
 
 a:hover{

@@ -6,14 +6,13 @@
     <link rel="stylesheet" href="phishki.css">
     <link rel=stylesheet href="components/headstyle.css">
     <title>ФИШКИ И ГОРЯЧИЕ КЛАВИШИ</title>
-</head>
 
-<body >
-    <?php
-    require('components/header.php');
-    ?>
+<?php
+    require("../components/nav1.php");
+?>
+    
     <header>
-        <p> <a href="//index.html"> <img src="../images/photo.jpg" width="100" title="BAZA" alt="BAZA"/> </a> - перейти на <i><u>главную</u></i></p>
+        <!-- <p> <a href="//index.html"> <img src="../images/photo.jpg" width="100" title="BAZA" alt="BAZA"/> </a> - перейти на <i><u>главную</u></i></p> -->
         <h2>ФИШКИ И ГОРЯЧИЕ КЛАВИШИ</h2>
     </header>
 

@@ -3,12 +3,12 @@
   <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="outlines.css">
-    <title>Первое испытание</title>
+    <title>Разметка</title>
   </head>
   
   <body>
     <header>
-        <h1>Заголовок сайта / <a href="../../index.html"> вернуться на главную</a></h1>
+        <h1>Заголовок сайта / <a href="../../index.php"> вернуться на главную</a></h1>
     </header>
     
     <main>

@@ -8,13 +8,11 @@
     <link rel="stylesheet" href="structPHP.css"/>
     <meta name="description" content="База по php" />
     <meta name="keywords" content="php" />
-</head>
-
-<body>
+    <?php
+    require("../components/nav1.php");
+    ?>
     <header>
-        <a href="../index.html"> <img src="../images/photo.jpg" width="100px" style="border-radius:100%;" title="BAZA" alt="тут должна быть картинка, но ее нет(" />- вернуться на главную </a>
         <h1>ОСНОВЫ PHP</h1>
-        
     </header>
 
     <main>

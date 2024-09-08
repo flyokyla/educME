@@ -5,12 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="reg.css">
     <title>Document</title>
-</head>
-<body>
-
-    <div>
-        <p> <a href="../../index.html"> <img src="../../images/photo.jpg" width="100" title="BAZA" alt="BAZA"/> </a> - перейти на <i><u>главную</u></i></p>
-    </div>
+    <?php
+        require("../../components/nav1.php");
+    ?>
 
     <h1> РЕГИСТРАЦИЯ </h1>
     <form name="signup" action="https://echo.htmlacademy.ru/courses" method="post" oninput="DISPaudio.value=volume1.value">
@@ -159,7 +156,7 @@
 
         <input type="reset" name="res" value="Сбросить"/>
         <input type="submit" name="signup" value=" Зарегистрироваться"/> -- альтернатива --
-        <input type="image" name="signupIM" src="images/photo.jpg" alt="Зарегистрироваться" width="20px" /> -- но тут на сервер еще передаются координату щелчка по картинке
+        <input type="image" name="signupIM" src="/images/photo.jpg" alt="Зарегистрироваться" width="20px" /> -- но тут на сервер еще передаются координату щелчка по картинке
 
         </fieldset>
     </form>

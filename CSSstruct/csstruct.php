@@ -5,11 +5,10 @@
         <meta charset="UTF-8">
         <link rel="stylesheet" href="csstruct.css">
         <title> Структура CSS </title>
-    </head>
-
-    <body>
+        <?php
+            require("../components/nav1.php");
+        ?>
         <header>
-            <p> <a href="../index.html"> <img src="../images/photo.jpg" width="100" alt="главная" title="вернуться на главную" /> </a> - вернуться на главную </p>
             <h1> СТРУКТУРА CSS</h1>
         </header>
 

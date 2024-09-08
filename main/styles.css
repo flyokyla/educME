@@ -17,7 +17,7 @@ nav, header {
 
 header {
     margin: 40px 40%;
-    background-image: url(images/photo.jpg) ;
+    background-image: url(/images/photo.jpg) ;
 
 }
 

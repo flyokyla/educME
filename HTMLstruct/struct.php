@@ -5,15 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="struct.css"/>
     <title>СТРУКТУРА HTML</title>
-</head>
-
-<body>
+    <?php
+    require("../components/nav1.php");
+    ?>
+    
     <header>
-        <div>
-            <p> <a href="../index.html"> <img src="../images/photo.jpg" width="100" title="BAZA" alt="тут должна быть картинка но ее нет(" /> </a> - <i><u>перейти на главную</u></i></p>
-        </div>
         <h1 id="stractur">СТРУКТУРА HTML</h1>
-        
     </header>
 
     <main>

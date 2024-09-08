@@ -4,11 +4,10 @@
     <meta charset="UTF-8" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>БАЗА ПО GIT</title>
-</head>
-
-<body>
+    <?php
+        require("../components/nav1.php");
+    ?>
     <header>
-    <p> <a href="../index.html"> <img src="../images/photo.jpg" width="100" title="BAZA" alt="BAZA"/> </a> - перейти на <i><u>главную</u></i></p>
         <h1>БАЗА ПО GIT</h1>
     </header>
     <main>

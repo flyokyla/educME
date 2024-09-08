@@ -9,7 +9,7 @@
 <body style="margin: 0%;">
     <nav class="navig-site">
         <div class="navig-site-in">
-        <a class="logo-link" href="../index.html"><img class="logo" src="../images/photo.jpg"  title="главная" alt="главная"/></a>
+        <a class="logo-link" href="/main/index.php"><img class="logo" src="/images/photo.jpg"  title="главная" alt="главная"/></a>
         <ul class="navig-list">
             <li><a href="HTMLstruct/struct.html"> HTML </a></li>
             <li> <a href="HTMLstruct/razmetka/index.html">БЛОКИ HTML</a> </li>

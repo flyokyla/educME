@@ -4,7 +4,11 @@ blockquote {
     font-family: "Iosevka", serif;
     color: #6a2cce;
 }
-  
+
+.navig-site .logo-link{
+  margin-bottom: 5px;
+}
+
 cite {
   color: #222222;
 }
